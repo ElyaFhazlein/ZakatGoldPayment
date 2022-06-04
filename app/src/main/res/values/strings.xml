@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Zakat Gold Payment</string>
+    <string name="menu_about">About</string>
+    <string name="copyright">Copyright &#169; 2022 Elya Fhazlein and Noor Syarafana</string>
+    <string name="about_text">Zakat Gold Payment is useful application to find out charity amount payable with simple method. </string>
+    <string-array name="type">
+        <item>Wear</item>
+        <item>Keep</item>
+    </string-array>
+
+    <string name="GithubLink">Visit us at <a href="https://github.com/wajeehahhamdzar/ZakatEmasCalculator.git">Zakat Emas Website</a></string>
+
+</resources>
